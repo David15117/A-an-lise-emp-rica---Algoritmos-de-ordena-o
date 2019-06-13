@@ -1,0 +1,7 @@
+Passos: 
+
+1-Gerar o csv utilizando o gerador em python:geradorCSV
+2- Após Gerar os arquivos me pasta do seu algoritmo.
+3- utiliza o arquivo nome-algoritmode-ordenação.py para a ordenação
+4- com txt ja preenchido pegar os valores gerador vai na pasta graficos.
+5- Gere os graficos conforme os nomes
